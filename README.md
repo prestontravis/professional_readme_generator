@@ -1,29 +1,33 @@
-# Node.js Challenge: Professional README Generator
+# Professional-Readme-To-Go
+  
+  ![Badge](https://img.shields.io/badge/License-MIT-blue.svg)
 
-## User Story  
-AS A developer\
-I WANT a README generator\
-SO THAT I can quickly create a professional README for a new project 
 
-## Acceptance Criteria
-GIVEN a command-line application that accepts user input\
-WHEN I am prompted for information about my application repository\
-THEN a high-quality, professional README.md is generated with the title of my project and sections entitled Description, Table of Contents, Installation, Usage, License, Contributing, Tests, and Questions\
-WHEN I enter my project title\
-THEN this is displayed as the title of the README\
-WHEN I enter a description, installation instructions, usage information, contribution guidelines, and test instructions\
-THEN this information is added to the sections of the README entitled Description, Installation, Usage, Contributing, and Tests\
-WHEN I choose a license for my application from a list of options\
-THEN a badge for that license is added near the top of the README and a notice is added to the section of the README entitled License that explains which license the application is covered under\
-WHEN I enter my GitHub username\
-THEN this is added to the section of the README entitled Questions, with a link to my GitHub profile\
-WHEN I enter my email address\
-THEN this is added to the section of the README entitled Questions, with instructions on how to reach me with additional questions\
-WHEN I click on the links in the Table of Contents\
-THEN I am taken to the corresponding section of the README
+  ## Description:
+A project that generates your own "README.md" file using the command line interface. It's a much more efficient way to create your "README.me" files. The newly created README.md file will be in the "Develop" folder after you've "node index.js". Don't forget to view the video demo and right click "Open Preview" on the README.md file!
 
-## Walkthough Video  
-(Coming Soon!)
+  ## Table of Contents 
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [License](#license)
+  - [Contribution](#contribution)
+  - [Testing](#testing)
+  - [Additional Info](#additional-info)
+  - [Questions](#questions)
+  ## Installation:
+  To use this node package. Use npm install for the inquirer package.
+  ## Usage:
+  Video demo here
 
-## GitHub Repository URL  
-https://github.com/prestontravis/professional_readme_generator
+  ## License
+    This application is covered by the MIT license.
+
+  ## Contribution:
+  To contribute please contact me through email or GitHub.
+  ## Testing:
+  To test follow the installation instructions and run the code. This should generate a new Readme if run correctly.
+  ## Additional Info:
+  - Github: Coming Soon
+  - Email: Coming Soon
+  ## Questions:
+  Please reach out through GitHub or email for any questions.
