@@ -15,7 +15,7 @@ A project that generates your own "README.md" file using the command line interf
   - [Additional Info](#additional-info)
   - [Questions](#questions)
   ## Installation:
-  Use npm install for the inquirer package.
+  run "npm i" in the terminal and then afterwards run "node index.js" in the terminal to begin the app.
   
   ## Usage:
   [Video](https://drive.google.com/file/d/1DGMA3qZS7iCtRn32eByp35otioSFGxjg/view)
