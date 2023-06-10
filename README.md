@@ -16,6 +16,7 @@ A project that generates your own "README.md" file using the command line interf
   - [Questions](#questions)
   ## Installation:
   Use npm install for the inquirer package.
+  
   ## Usage:
   [Video](https://drive.google.com/file/d/1DGMA3qZS7iCtRn32eByp35otioSFGxjg/view)
 
@@ -25,7 +26,7 @@ A project that generates your own "README.md" file using the command line interf
   ## Contribution:
   To contribute please contact me through email or GitHub.
   ## Testing:
-  To test follow the installation instructions and run the code. This should generate a new Readme if run correctly.
+  To test follow the installation instructions and run the code. This should generate a new Readme if run correctly inside the "utils" folder.
   ## Additional Info:
   - Github: [prestontravis](https://github.com/prestontravis)
   - Email: travisprestonofficial@gmail.com
